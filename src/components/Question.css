@@ -18,3 +18,10 @@
 #question button {
     border: 2px solid #fff;
 }
+
+
+@media (max-width: 500px){
+    #question {
+        margin: 10px;
+    }
+}
